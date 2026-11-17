@@ -82,11 +82,4 @@ Javi Ciborro
 - Cada afirmación del CV/portfolio tendrá una fuente: certificado, contrato/vida laboral, repositorio, publicación, producto demostrable o declaración explícitamente no acreditada.
 - Adaptar CV y carta a cada oportunidad; mantener una versión maestra y versiones derivadas.
 
-## Pendientes de validación
 
-- Confirmar contacto publicable.
-- Verificar titulaciones y certificados con documentos originales.
-- Actualizar prácticas y fechas.
-- Validar métricas de audiencia.
-- Revisar todos los repositorios y enlaces.
-- Aprobar símbolo vectorial definitivo.
